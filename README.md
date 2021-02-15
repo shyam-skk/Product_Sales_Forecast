@@ -1,5 +1,5 @@
 # Product_Sales_Forecast
-Predict sales for the period October 2017 to December 2018
+Predicted the sales for two products A & B for the period - October 2017 to December 2018
 
 Sales forecasts enable you to manage your business more effectively. A sales forecast is
 an estimate of the number of goods and services you can realistically sell over the
@@ -10,7 +10,9 @@ specified period is given in full digits. So our major business objective is to 
 of two products for the period of October 2017 to December 2018. Based on the nature,
 behavior, and properties of the time series given, here we will test and build
 appropriate forecast model on the test time series object and we will select the best fit
-model for the forecast of the product.
+model for the forecast the product.
+
+The project follows the listed prosedure and expalines it with appropriate answers.
 
 1. Read the data as time series objects in R. Plot the data. What are the major
 features you notice in the series? How do the two series differ?
